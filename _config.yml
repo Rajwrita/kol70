@@ -1,0 +1,74 @@
+#-------------------------------
+# General Site Settings
+
+title: Srijit Mondal
+description: "Portfolio of Srijit Mondal, Indian author."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://srijitmondal.in" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# About Section
+author-name:   Srijit Mondal
+author-avatar: 09.jpg
+
+
+#-------------------------------
+# Contact links
+facebook:  https://www.facebook.com/srijit.mondal.5815 # Add your Facebook handle
+twitter:   https://twitter.com/authorSrijit # Add your Facebook handle
+instagram: https://www.instagram.com/srijit466/ # Add your Facebook handle
+linkedin: https://www.linkedin.com/in/srijit-mondal-04b379146/ # Add your Facebook handle
+google: https://g.co/kgs/eW4QZB
+amazon: https://www.amazon.com/Srijit-Mondal/e/B07DMQN5YD
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: gmail.us19.list-manage.com/subscribe/post?u=6fa46918fab6116872c1dfd84&amp;id=b5e1063bca
+# Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: ':title/'
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 7
+paginate_path: "/page/:num"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

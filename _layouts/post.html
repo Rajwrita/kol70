@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			<div class="post-image-box">
+				<div class="post-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : page.image}})"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<article class="col col-12 col-t-8 post">
+			<div class="post-content">
+
+				<div class="post-head">
+					{% if page.tags.size >= 1 %}
+					<div class="post-tag">
+						{% for tag in page.tags %}
+						<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
+						{% endfor %}
+					</div>
+					{% endif %}
+					<h1 class="post-title">{{ page.title | escape }}</h1>
+				
+				</div>
+
+				<div class="post-body">
+					{{ content }}
+
+					
+				</div>
+
+				<div class="post-navigation">
+					{% if page.previous.url %}
+					<a href="{{ site.baseurl }}{{page.previous.url}}" class="prev">
+						<div class="post-nav-arrow"><i class="ion ion-ios-arrow-round-back"></i> You may also like</div>
+						<h2 class="post-nav-title">{{page.previous.title}}</h2>
+					</a>
+					{% endif %} {% if page.next.url %}
+					<a href="{{ site.baseurl }}{{page.next.url}}" class="next">
+						<div class="post-nav-arrow">You may also like <i class="ion ion-ios-arrow-round-forward"></i></div>
+						<h2 class="post-nav-title">{{page.next.title}}</h2>
+					</a>
+					{% endif %}
+				</div>
+
+			</div>
+		
+	</article> <!-- /.post -->
+
+	<div class="col col-12 col-t-4">
+		{% include sidebar.html %}
+	</div>
+
+	</div>
+</div>

@@ -1,0 +1,39 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer-top">
+          <h2 class="logo-title">
+            <a href="{{site.baseurl}}/" class="logo-text">Srijit Mondal</a>
+          </h2>
+          <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
+        </div>
+        <div class="footer-bottom">
+          <div class="footer-social">
+            <ul class="list-reset">
+              {% if site.facebook %}
+              <li><a href="{{ site.facebook }}">Facebook</a></li>
+              {% else %} {% endif %}
+
+              {% if site.twitter %}
+              <li><a href="{{ site.twitter }}">Twitter</a></li>
+              {% else %} {% endif %}
+
+              {% if site.instagram %}
+              <li><a href="{{ site.instagram }}">Instagram</a></li>
+              {% else %} {% endif %}
+
+              {% if site.linkedin %}
+              <li><a href="{{ site.linkedin }}">LinkedIn</a></li>
+              {% else %} {% endif %}
+              
+              {% if site.google %}
+              <li><a href="{{ site.google }}">Google</a></li>
+              {% else %} {% endif %}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /.footer -->
