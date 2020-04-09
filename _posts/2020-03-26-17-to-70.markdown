@@ -1,0 +1,11 @@
+---
+layout: post
+title:  17 to 70
+date:   2020-03-26
+image:  train.png
+tags:   travels
+---
+
+All put together, in a stochastic mess.
+
+
