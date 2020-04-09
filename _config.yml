@@ -10,17 +10,17 @@ url: "https://rajwrita.github.io" # the base hostname & protocol for your site, 
 #-------------------------------
 # About Section
 author-name:   Rajwrita Nath
-author-avatar: 09.jpg
+author-avatar: rajwrita.png
 
 
 #-------------------------------
 # Contact links
-facebook:  https://www.facebook.com/srijit.mondal.5815 # Add your Facebook handle
-twitter:   https://twitter.com/authorSrijit # Add your Facebook handle
-instagram: https://www.instagram.com/srijit466/ # Add your Facebook handle
-linkedin: https://www.linkedin.com/in/srijit-mondal-04b379146/ # Add your Facebook handle
-google: https://g.co/kgs/eW4QZB
-amazon: https://www.amazon.com/Srijit-Mondal/e/B07DMQN5YD
+facebook:  https://www.facebook.com/rajwrita # Add your Facebook handle
+twitter:   https://twitter.com/rajwrita # Add your Facebook handle
+instagram: https://www.instagram.com/rajwrita/ # Add your Facebook handle
+linkedin: https://www.linkedin.com/in/rajwrita-nath/ # Add your Facebook handle
+google: https://www.google.com/search?hl=en-IN&sxsrf=ALeKk01YCsiS703fYy1XueqjQkyTojhlRw%3A1586438982605&ei=RiOPXsDEJIXl9QPZ2qHADw&q=Rajwrita+Nath&oq=Rajwrita+Nath&gs_lcp=CgZwc3ktYWIQAzoECCMQJzoHCCMQ6gIQJzoECAAQQzoFCAAQkQI6BQgAEIMBOgIIADoHCAAQFBCHAjoECAAQDToGCAAQDRAeOggIABAIEA0QHkotCBcSKTBnMjU4ZzI2NWcyNjFnMjYwZzM2NWczNzZnMjY0ZzIzN2cyMTZnMjM2ShkIGBIVMGcxZzFnMWcxZzFnMWcxZzFnMWc5UO4iWPBkYOBwaAFwAHgAgAH0AogBtiOSAQYyLTE2LjKYAQCgAQGqAQdnd3Mtd2l6sAEK&sclient=psy-ab&ved=0ahUKEwjA_4_gudvoAhWFcn0KHVltCPgQ4dUDCAw&uact=5
+
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -29,7 +29,7 @@ disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Instagram Feed
-instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
