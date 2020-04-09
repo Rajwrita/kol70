@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: /achievements/
+permalink: /gallery/
 image: cover.png
 ---
 
