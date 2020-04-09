@@ -8,12 +8,13 @@ image: cover.jpg
 
 
 
-
+![]({{site.baseurl}}/img/pujo19.png)
+<br/><br/>
 ![]({{site.baseurl}}/img/parkstreet.png)
 ![]({{site.baseurl}}/img/bangkok.png)
 ![]({{site.baseurl}}/img/faith.png)
 ![]({{site.baseurl}}/img/train.png)
-
+![]({{site.baseurl}}/img/sikkim.png)
 
 
 
