@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /achievements/
-image: 01.png
+image: cover.jpg
 ---
 
 
@@ -11,7 +11,7 @@ image: 01.png
 
 
 
-![]({{site.baseurl}}/img/train.jpg)
+![]({{site.baseurl}}/img/train.png)
 
 
 
