@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
 
-title: Srijit Mondal
-description: "Portfolio of Srijit Mondal, Indian author."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://srijitmondal.in" # the base hostname & protocol for your site, e.g. http://example.com
+title: Kol70
+description: "Food Blogging"
+baseurl: "/kol70" # the subpath of your site, e.g. /blog
+url: "https://rajwrita.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Srijit Mondal
+author-name:   Rajwrita Nath
 author-avatar: 09.jpg
 
 
