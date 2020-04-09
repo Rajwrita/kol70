@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /achievements/
-image: cover.jpg
+image: cover.png
 ---
 
 
