@@ -1,0 +1,12 @@
+---
+  layout: post
+  title: Meraki
+  date: 2020-01-01
+  image: meraki.png
+  tags: [Art, Blogs]
+---
+
+meraki [may-rah-kee]: out of soul, creativity and love.
+
+
+
