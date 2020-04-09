@@ -9,7 +9,8 @@ image: cover.jpg
 
 
 ![]({{site.baseurl}}/img/pujo19.png)
-<p>&nbsp;</p>
+&nbsp;
+
 ![]({{site.baseurl}}/img/parkstreet.png)
 ![]({{site.baseurl}}/img/bangkok.png)
 ![]({{site.baseurl}}/img/faith.png)
