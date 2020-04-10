@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Park Street 2.0
+title:  Meraki
 date:   2020-03-29
 image:  meraki.png
 tags:   art blogs 
 ---
-"Everything you are passionate about has been created within you for a reason."
+"meraki [may-rah-kee]- with soul, creativity and love"
