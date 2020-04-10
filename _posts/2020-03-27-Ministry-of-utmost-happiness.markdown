@@ -5,5 +5,5 @@ date:   2020-03-27
 image:  train.png
 tags:   art books 
 ---
-"Everything you are passionate about has been created within you for a reason."
+"I like this place. And willingly could waste my time in it."- William Shakespeare.
 
