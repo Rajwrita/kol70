@@ -6,11 +6,10 @@ image: cover.png
 ---
 
 
-
-
+![]({{site.baseurl}}/img/buddha.png)
+&nbsp;
 ![]({{site.baseurl}}/img/pujo19.png)
 &nbsp;
-
 ![]({{site.baseurl}}/img/parkstreet.png)
 &nbsp;
 ![]({{site.baseurl}}/img/bangkok.png)
