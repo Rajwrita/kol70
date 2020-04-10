@@ -7,7 +7,8 @@ image:  kol70.png
 
 "Every story has a time to be told, I convinced her. Otherwise you'll forever be a prisoner to the secret inside you"
 Sputnik Sweetheart, Haruki Murakami.
+&nbsp;
 Kolkata 70 is my bittersweet heaven. I've listened to a million stories and wrote down a million more. Kolkata 70, is ironically, an on-going story. Yet to be discovered to its full potential and experienced by none.
-This platform is my attempt to potray this absurd cross section of hopes and dreams of mine and of the people who have stayed here.
+This platform is my attempt to portray this absurd cross section of hopes and dreams of mine and of the people who have stayed here.
 One for the Road!
 
