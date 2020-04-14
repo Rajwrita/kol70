@@ -6,7 +6,7 @@ image:  faith.png
 tags:   travels
 ---
 _"I am one part courage, three parts fear. Three parts love and one part bitter. Half risen from rock-bottom and still in free fall, you can either love me whole or not love me at all"_
-- Akif Kichloo
+-Akif Kichloo
 
 
 
