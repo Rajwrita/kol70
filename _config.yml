@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Kol70
-description: "Food Blogging"
+description: "Photography and Blogging"
 baseurl: "/kol70" # the subpath of your site, e.g. /blog
 url: "https://rajwrita.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
