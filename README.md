@@ -1,1 +1,1 @@
-Website for photography and non-technical blogs
+Website for art, photography and non-technical blogs
