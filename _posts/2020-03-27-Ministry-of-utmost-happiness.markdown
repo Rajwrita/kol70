@@ -25,4 +25,6 @@ Journey to your Ministry of Utmost Happiness.
 
 ![]({{site.baseurl}}/img/jaipur.jpg)
 &nbsp;
+![]({{site.baseurl}}/img/canon.jpg)
+&nbsp;
 
