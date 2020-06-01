@@ -23,3 +23,6 @@ Yet, it's time you let go, into the waters of Varanasi, someday.
 May you exist in the pictures of the landscape that you have taken with your good old Olympus. It's time you move into the rhythms of the beat that is trapped in all my favorite songs. You're the spring after every harsh winter and may you come back to me in all my smiles. You're a thought which will forever linger on my mind. You're a whisper echoing in every wind.
 Journey to your Ministry of Utmost Happiness. 
 
+![]({{site.baseurl}}/img/jaipur.jpg)
+&nbsp;
+
