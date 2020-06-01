@@ -2,7 +2,7 @@
 layout: post
 title:  Meraki
 date:   2020-03-30
-image:  meraki.png
+image:  2.jpg
 tags:   art blogs social
 ---
 "meraki [may-rah-kee]- with soul, creativity and love"
@@ -19,12 +19,9 @@ Ever since I was a kid, I always used to start painting when I was angry, upseto
 
 This platform is my place for sharing smiles. sharing kindness and bringing along people in this journey. The start to the journey:
 
-![]({{site.baseurl}}/img/buddha.png)
+![]({{site.baseurl}}/img/3.jpg)
 &nbsp;
-![]({{site.baseurl}}/img/buddha.png)
-&nbsp;
-![]({{site.baseurl}}/img/buddha.png)
-&nbsp;
+
 
 Hence, *Day 1:* I keep a goal of raising 300/- and set out with making art work and post them to the various social media sites I was active on. Posts done, in comes 410 in the first 10 minutes. Excited, unexpected.
 
