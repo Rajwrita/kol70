@@ -6,6 +6,7 @@ image:  parkstreet.png
 tags:   art blogs 
 ---
 "Everything you are passionate about has been created within you for a reason."
+
 It is such an absurd yet fulfilling moment to step out of your teens. 
 I have always loved books and paint so very much. So very much. I remember reading Mark of Athena, a book I had borrowed from my best friend during durga puja of 2013. To be honest with you, I have no clue what was in that book, I couldn't even tell you my favourite parts from that book. I just know that book was the only thing that kept me distracted from the whirlwind that I was in. I however had to return that book, and like any book lover, no matter how many books you borrow and read, you do want your fav books with you, close to you. I was obviously not earning at that time and I couldn’t even think about asking my mother to buy me a 700/800 rs book when I could see her going to my tuition teachers asking them to help me with my studies. Because even if all failed in life, she would walk the last mile to make sure I got the best of education and any help I needed. I won’t lie, I felt so out of place when at the end of the month all of my friends would pay our teacher and I had nothing. 
 
